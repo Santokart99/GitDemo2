@@ -13,4 +13,8 @@ public class LastChanges {
 	public void playingSplatoon() {
 		System.out.println("I'm playing Splatoon");
 	}
+	
+	public void demo() {
+		System.out.println("This is a demo");
+	}
 }
